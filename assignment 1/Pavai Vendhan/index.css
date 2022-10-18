@@ -1,0 +1,22 @@
+.white{
+    color: white;
+}
+.sec{
+    height: 90vh;
+}
+.round{
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.img{
+    height: 300px;
+    width: 120px;
+}
+.btn{
+    border-radius: 150px;
+}
+.top{
+    background-color: #0066b2;
+    height: 27vh;
+}
