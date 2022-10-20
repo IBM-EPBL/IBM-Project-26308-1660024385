@@ -24,4 +24,6 @@ Personal finance applications will ask users to add their expenses and based on 
 
 ⭐️ Technical Architecture :
 
+![ibm](https://user-images.githubusercontent.com/82322042/197016262-794eeb22-acbe-4d40-80ed-4b98041fed3f.png)
+
  
