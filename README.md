@@ -14,7 +14,13 @@
 <hr>
 <h2>🎯 SKILLS REQUIRED : </h2>
 
-   - IBM Cloud, HTML, Javascript, IBM Cloud Object Storage, Python-Flask, Kubernetes, Docker, IBM DB2, IBM Container Registry
+|    |   |   |
+| :---:         |     :---:      |          :---: | 
+| IBM CLOUD   | HTML     | CSS    | JAVASCRIPT | 
+| PYTHON - FLASK    | KUBERNETES      | DOCKER    |
+| IBM CONTAINER REGISTRY | IBM CLOUD OBJECT | IBM DB2 |
+| | | |
+
 <hr>
 <h2>📜 PROJECT DESCRIPTION : </h2>
 
