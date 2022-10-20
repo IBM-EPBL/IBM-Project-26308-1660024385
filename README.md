@@ -16,9 +16,10 @@
 
 |    |   |   |
 | :---:         |     :---:      |          :---: | 
-| IBM CLOUD   | HTML     | CSS    | JAVASCRIPT | 
+| IBM CLOUD   | HTML     | CSS    |  | 
 | PYTHON - FLASK    | KUBERNETES      | DOCKER    |
-| IBM CONTAINER REGISTRY | IBM CLOUD OBJECT | IBM DB2 |
+| JAVASCRIPT  | IBM CLOUD OBJECT | IBM DB2 |
+| -|IBM CONTAINER REGISTRY|-
 | | | |
 
 <hr>
