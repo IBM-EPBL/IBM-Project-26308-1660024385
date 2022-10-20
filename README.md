@@ -8,8 +8,8 @@
 <h2>⭐️ TEAM MEMBERS: </h2>
 
    - Pradeep S <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/tree/main/ASSIGNMENTS/Pradeep(Team%20Lead)">- ASSIGNMENTS </a><br>
-   - Pooja B <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/tree/main/ASSIGNMENTS/Portia%20J">- ASSIGNMENTS </a><br>
-   - Portia J <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/tree/main/ASSIGNMENTS/Pavai%20Vendhan%20G">- ASSIGNMENTS </a><br>
+   - Pooja B <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/tree/main/ASSIGNMENTS/Pooja%20B">- ASSIGNMENTS </a><br>
+   - Portia J <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/tree/main/ASSIGNMENTS/Portia%20J">- ASSIGNMENTS </a><br>
    - Pavai Vendhan G <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/tree/main/ASSIGNMENTS/Pavai%20Vendhan%20G">- ASSIGNMENTS </a>
 
 <h2>⭐️ SKILLS REQUIRED : </h2>
