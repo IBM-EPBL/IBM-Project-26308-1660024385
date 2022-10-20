@@ -1,5 +1,5 @@
 <div align="center">
- <img src="">          
+ <img src="https://raw.githubusercontent.com/IBM-EPBL/IBM-Project-26308-1660024385/261628f24c32e89e4ccb51cf83b839acca0504ce/Resources/Logo%20of%20IBM.svg">          
    <h2>IBM-Project-26308-1660024385</h2>
   </div> 
 
@@ -57,8 +57,6 @@
   - <b>Project Planning Phase</b>
     - [ ] Milestone & Activity List
     - [ ] Sprint Delivery Plan
-<hr>
-<h2>📚 RESOURCES :</h2><br>
 <hr>
 <h2>📣 Feedback :</h2>
 📫 How to reach Us <a href = "mailto: pavaivendhan.professional@gmail.com">Connect with Email</a><br>
