@@ -26,6 +26,28 @@
 
 ![ibm](https://user-images.githubusercontent.com/82322042/197016262-794eeb22-acbe-4d40-80ed-4b98041fed3f.png)
 
+<h1>Pre Development Phase</h1>
+
+- Project Design & Planning
+  - <b>Ideation Phase</b>
+    - [x] Literature Survey
+    - [x] Problem Statement
+    - [x] Empathy Map
+    - [x] Brainstorm
+    - [x] Top 3 Ideas
+  - <b>Project Design Phase 1</b>
+    - [x] Proposed Solution
+    - [x] Problem-Solution Fit
+    - [x] Solution Architecture
+  - <b>Project Design Phase 2</b>
+    - [x] Customer Journey Maps
+    - [x] Functional Requirements
+    - [x] Data Flow Diagrams
+    - [x] Technology Architecture
+  - <b>Project Planning Phase</b>
+    - [ ] Milestone & Activity List
+    - [ ] Sprint Delivery Plan
+
 <h2>📚 RESOURCES :</h2><br>
 <h2>🖋 Feedback :</h2>
 
