@@ -1,11 +1,11 @@
-<h1> Personal Expense Tracker Application </h1>
 
-   - CATEGORY : Cloud App Development<br>
-   - COLLEGE : Saveetha Engineering College
+![Logo of IBM](https://user-images.githubusercontent.com/82322042/197071559-7063bfc6-8acd-492e-91e6-19a7289c473c.svg)</h1>
 
-<b><h3>🏆 TEAM ID : PNT2022TMID03675</h3></b>
+<h1 align="center"> Personal Expense Tracker Application </h1>
+<b><h3 align="center">🏆 TEAM ID : PNT2022TMID03675</h3></b>
+   <h4 align="center">CATEGORY : Cloud App Development<br></h4>
 <hr>
-<h2>🧑🏻‍💻 TEAM MEMBERS: </h2>
+<h2 >🧑🏻‍💻 TEAM MEMBERS: </h2>
 
    - Pradeep S <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/tree/main/ASSIGNMENTS/Pradeep(Team%20Lead)">- ASSIGNMENTS </a><br>
    - Pooja B <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/tree/main/ASSIGNMENTS/Pooja%20B">- ASSIGNMENTS </a><br>
@@ -58,7 +58,12 @@
 <h2>📚 RESOURCES :</h2><br>
 <hr>
 <h2>📣 Feedback :</h2>
- 📫 How to reach Us <a href = "mailto: pavaivendhan.professional@gmail.com">Connect with Email</a>
+📫 How to reach Us <a href = "mailto: pavaivendhan.professional@gmail.com">Connect with Email</a><br>
+<hr>
+<h3><b>🤝 Contribution :</h3>
+<a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=IBM-EPBL/IBM-Project-26308-1660024385" />
+</a><br><br>
 
 ![Snake animation](https://github.com/gogulkrish/snak-/blob/main/rafaballerini-output/github-contribution-grid-snake.svg)
 
