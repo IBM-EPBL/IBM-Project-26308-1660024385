@@ -30,20 +30,20 @@
 
 - Project Design & Planning
   - <b>Ideation Phase</b>
-    - [x] Literature Survey
-    - [x] Problem Statement
-    - [x] Empathy Map
-    - [x] Brainstorm
-    - [x] Top 3 Ideas
+    - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Ideation_Phase/Literature%20Survey.pdf">Literature Survey </a>
+    - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Ideation_Phase/Problem%20Statement.pdf">Problem Statement</a>
+    - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Ideation_Phase/Empathy%20Map.pdf">Empathy Map</a>
+    - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Ideation_Phase/Brainstorming.pdf">Brainstorm</a>
+    - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Ideation_Phase/brainstorm%20and%20ideation.pdf">Brainstorm and Ideation Prioritization</a>
   - <b>Project Design Phase 1</b>
-    - [x] Proposed Solution
-    - [x] Problem-Solution Fit
+    - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Proposed%20-%20Solution.pdf">Proposed Solution</a>
+    - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Problem_solution_fit_PET.pdf">Problem-Solution Fit</a>
     - [x] Solution Architecture
   - <b>Project Design Phase 2</b>
-    - [x] Customer Journey Maps
-    - [x] Functional Requirements
-    - [x] Data Flow Diagrams
-    - [x] Technology Architecture
+    - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Customer%20Journey%20Map.pdf">Customer Journey Maps</a>
+    - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Solution%20Requirements.pdf">Solution Requirements</a>
+    - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/DataFlow%20diagram.pdf">Data Flow Diagrams</a>
+    - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Technology%20Architecture.pdf">Technology Architecture</a>
   - <b>Project Planning Phase</b>
     - [ ] Milestone & Activity List
     - [ ] Sprint Delivery Plan
