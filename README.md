@@ -1,6 +1,3 @@
-
-![Logo of IBM](https://user-images.githubusercontent.com/82322042/197071559-7063bfc6-8acd-492e-91e6-19a7289c473c.svg)</h1>
-
 <h1 align="center"> Personal Expense Tracker Application </h1>
 <b><h3 align="center">🏆 TEAM ID : PNT2022TMID03675</h3></b>
    <h4 align="center">CATEGORY : Cloud App Development<br></h4>
@@ -65,7 +62,11 @@
   <img src="https://contrib.rocks/image?repo=IBM-EPBL/IBM-Project-26308-1660024385" />
 </a><br><br>
 
-![Snake animation](https://github.com/gogulkrish/snak-/blob/main/rafaballerini-output/github-contribution-grid-snake.svg)
-
-
- 
+![](https://svgur.com/i/nQ2.svg)
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+   
+<div align="center">
+ <h5> Made with  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤️" width="12" height="12">
+</picture> in India | Saveetha Engineering College </h5>   
