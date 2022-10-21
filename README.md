@@ -1,8 +1,7 @@
 <div align="center">
  <img src="https://raw.githubusercontent.com/IBM-EPBL/IBM-Project-26308-1660024385/261628f24c32e89e4ccb51cf83b839acca0504ce/Resources/Logo%20of%20IBM.svg">          
    <h2>IBM-Project-26308-1660024385</h2>
-  </div> 
-
+  </div>
 
 <h1 align="center"> Personal Expense Tracker Application </h1>
 <b><h3 align="center">🏆 TEAM ID : PNT2022TMID03675</h3></b>
@@ -61,7 +60,9 @@
 <h2>📣 Feedback :</h2>
 📫 How to reach Us <a href = "mailto: pavaivendhan.professional@gmail.com">Connect with Email</a><br>
 <hr>
-<h3><b>🤝 Contribution :</h3>
+<h2><b><picture>
+  <img src="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Resources/icons8-handshake.gif" alt="❤🤝" width="34" height="34">
+</picture> Contribution :</h2>
 <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=IBM-EPBL/IBM-Project-26308-1660024385" />
 </a><br><br>
