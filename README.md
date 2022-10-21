@@ -55,8 +55,8 @@
     - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/DataFlow%20diagram.pdf">Data Flow Diagrams</a>
     - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Technology%20Architecture.pdf">Technology Architecture</a>
   - <b>Project Planning Phase</b>
-    - [x] Milestone & Activity List
-    - [x] Sprint Delivery Plan
+    - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase/Project%20Planning.pdf">Milestone & Activity List</a>
+    - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase/Project%20Planning.pdf">Sprint Delivery Plan</a>
 <hr>
 <h2>📣 Feedback :</h2>
 📫 How to reach Us <a href = "mailto: pavaivendhan.professional@gmail.com">Connect with Email</a><br>
