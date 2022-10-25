@@ -14,7 +14,9 @@
    - Portia J <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/tree/main/ASSIGNMENTS/Portia%20J">- ASSIGNMENTS </a><br>
    - Pavai Vendhan G <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/tree/main/ASSIGNMENTS/Pavai%20Vendhan%20G">- ASSIGNMENTS </a>
 <hr>
-<h2>🎯 SKILLS REQUIRED : </h2>
+<h2><picture>
+  <img src="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Resources/icons8-goal%20(1).gif" alt="🎯" width="30" height="30">
+</picture> SKILLS REQUIRED : </h2>
 
 |    |   |   |
 | :---:         |     :---:      |          :---: | 
@@ -31,11 +33,17 @@
 
   - Personal finance applications will ask users to add their expenses and based on their expenses wallet balance will be updated which will be visible to the user. Also, users can get an analysis of their expenditure in graphical forms. They have an option to set a limit for the amount to be used for that particular month if the limit is exceeded the user will be notified with an email alert.
 <hr>
-<h2>⭐️ Technical Architecture : </h2>
+<h2><picture>
+  <img src="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Resources/icons8-business-network.gif" alt="⭐" width="30" height="30">
+</picture> Technical Architecture : </h2>
 
 ![ibm](https://user-images.githubusercontent.com/82322042/197016262-794eeb22-acbe-4d40-80ed-4b98041fed3f.png)
 <hr>
-<h1>💬Pre Development Phase</h1>
+<h1><picture>
+  <img src="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Resources/icons8-mind-map.gif" alt="💬" width="34" height="34">
+</picture>Pre Development Phase<picture>
+  <img src="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Resources/icons8-task.gif" alt="📋" width="34" height="34">
+</picture></h1>
 
 - Project Design & Planning
   - <b>Ideation Phase</b>
@@ -58,11 +66,15 @@
     - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase/Project%20Planning.pdf">Milestone & Activity List</a>
     - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase/Project%20Planning.pdf">Sprint Delivery Plan</a>
 <hr>
-<h2>📣 Feedback :</h2>
-📫 How to reach Us <a href = "mailto: pavaivendhan.professional@gmail.com">Connect with Email</a><br>
+<h2><picture>
+  <img src="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Resources/icons8-feedback-64%20(1).png" alt="📣" width="34" height="34">
+</picture> Feedback :</h2>
+<h4><picture>
+  <img src="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Resources/icons8-gmail-logo%20(1).gif" alt="📫" width="25" height="25">
+</picture>  How to reach Us <a href = "mailto: pavaivendhan.professional@gmail.com">Connect with Email</a></h4><br>
 <hr>
 <h2><b><picture>
-  <img src="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Resources/icons8-handshake.gif" alt="🤝" width="34" height="34">
+  <img src="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Resources/icons8-people.gif" alt="🤝" width="28" height="28">
 </picture> Contribution :</h2>
 <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=IBM-EPBL/IBM-Project-26308-1660024385" />
