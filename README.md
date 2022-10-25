@@ -62,7 +62,7 @@
 📫 How to reach Us <a href = "mailto: pavaivendhan.professional@gmail.com">Connect with Email</a><br>
 <hr>
 <h2><b><picture>
-  <img src="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Resources/icons8-handshake.gif" alt="❤🤝" width="34" height="34">
+  <img src="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Resources/icons8-handshake.gif" alt="🤝" width="34" height="34">
 </picture> Contribution :</h2>
 <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=IBM-EPBL/IBM-Project-26308-1660024385" />
@@ -73,6 +73,5 @@
    
 <div align="center">
  <h5> Made with   <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤️" width="12" height="12">
+  <img src="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Resources/heart.gif" alt="❤️" width="12" height="12">
 </picture> in India | Saveetha Engineering College </h5>   
