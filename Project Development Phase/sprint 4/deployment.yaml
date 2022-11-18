@@ -1,0 +1,20 @@
+ apiVersion: apps/v1
+ kind: Deployment
+ metadata:
+   name: sakthi-flask-node-deployment
+ spec:
+   replicas: 1
+   selector:
+     matchLabels:
+       app: flasknode
+   template:
+     metadata:
+       labels:
+         app: flasknode
+     spec:
+       containers:
+       - name: flasknode
+         image: icr.io/sakthi_expense_tracker2/flask-template2
+         imagePullPolicy: Always
+         ports:
+         - containerPort: 5000
