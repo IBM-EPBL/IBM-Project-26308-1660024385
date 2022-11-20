@@ -56,7 +56,7 @@
     - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Proposed%20-%20Solution.pdf">Proposed Solution</a>
     - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Problem_solution_fit_PET.pdf">Problem-Solution Fit</a>
     - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Customer%20Journey%20Map.pdf">Customer Journey Map</a> 
-    - [x] Solution Architecture
+    - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Solution%20Architecture.pdf">Solution Architecture</a> 
   - <b>Project Design Phase 2</b>
     - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Customer%20journey.pdf">Customer Journey Maps</a>
     - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Solution%20Requirements.pdf">Solution Requirements</a>
