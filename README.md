@@ -65,12 +65,13 @@
   - <b>Project Planning Phase</b>
     - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase/Project%20Planning.pdf">Milestone & Activity List</a>
     - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase/Project%20Planning.pdf">Sprint Delivery Plan</a>
-<hr>
+
 - Project Development Phase
     - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/tree/main/Project%20Development%20Phase/sprint%201">Sprint 1 </a>
     - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/tree/main/Project%20Development%20Phase/sprint%202">Sprint 2 </a>
     - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/tree/main/Project%20Development%20Phase/sprint%203">Sprint 3 </a>
     - [x] <a href="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/tree/main/Project%20Development%20Phase/sprint%204">Sprint 4 </a>
+<hr>
 <h2><picture>
   <img src="https://github.com/IBM-EPBL/IBM-Project-26308-1660024385/blob/main/Resources/icons8-feedback-64%20(1).png" alt="📣" width="34" height="34">
 </picture> Feedback :</h2>
